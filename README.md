@@ -63,7 +63,7 @@ To run the Application
 ```bash
 npm start
 ```
-Open your browser and go to http://localhost:3000.
+
 
 ## Components
 
